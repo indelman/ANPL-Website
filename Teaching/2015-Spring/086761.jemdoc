@@ -1,0 +1,47 @@
+# jemdoc: menu{MENU}{teaching.html}, title{Vadim Indelman}, notime
+# jemdoc: addcss{bibtex.css}
+# jemdoc: addjs{toggleBibtex}
+
+== Vision Aided Navigation (086761): Spring 2015
+
+
+
+
+
+The course introduces fundamental topics in vision aided navigation (VAN) and simultaneous localization and mapping (SLAM). Selected advanced topics are covered as well.
+- Course syllabus and information sheet can be found [Teaching/2015-Spring/VAN-information.pdf here].
+- The course is managed via [https://piazza.com/technion.ac.il/spring2015/086761/home Piazza]. \n
+ *Important* - Sign up to the course [https://piazza.com/technion.ac.il/spring2015/086761 here]. Let me know (by [vadim.indelman@technion.ac.il email]) if you do not have a Technion email.
+
+*When*: Sundays, 14:30-17:30\n
+*Where*: Aerospace 240
+
+Course /tentative/ schedule (will probably change during the semester):
+
+~~~
+{}{table}{countries}
+Lecture week  | Topic ||
+1  | Introduction, 3D rigid transformations, 6 DOF Poses ||
+2  | Probability basics, Bayesian inference, Extended Kalman filter ||
+3  | Projective camera geometry, Multiple view geometry ||
+4  | Structure from Motion I; Feature detection and matching ||
+5  | Structure from Motion II: Bundle adjustment ||
+6  | SLAM and VAN I ||
+7  | SLAM and VAN II  ||
+8  | SLAM and VAN III  ||
+9  | Cooperative navigation and SLAM ||
+10 | Cooperative navigation and SLAM ||
+11 | Active SLAM, Belief space planning ||
+12 | Project presentations, active SLAM, belief space planning ||
+13  | Project presentations 
+~~~
+
+\n
+\n
+
+~~~
+{}{raw}
+<img src="Teaching/2015-Spring/images/CamProj.png" alt="" width=25% />
+<img src="Teaching/2015-Spring/images/GraphicalModel.png" alt="" width=20% />
+~~~
+
