@@ -8,3 +8,5 @@ Mosaicking
 NonParametric
 CBS
 RAP
+JIP
+RAMDL
