@@ -1,0 +1,501 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lanm",
+				"landmark_id"
+			],
+			[
+				"came",
+				"camera_i"
+			],
+			[
+				"py",
+				"pyplot"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "VadimIndelman.bib",
+			"settings":
+			{
+				"buffer_size": 40321,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pytho",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"file copy",
+				"File: Copy Path as URI"
+			],
+			[
+				"Package Control: p",
+				"Package Control: Remove Package"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"prefere",
+				"Preferences: Settings - Default"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"sideb",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"ss",
+				"Set Syntax: MATLAB"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/indelman/Vadim/PROFESSIONAL/ANPL-Website"
+	],
+	"file_history":
+	[
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/PAPERS/StudentTheses/DmitryKopitkovPhD/deep_information_recovery/Cpp/cnn/CNNFactor.h",
+		"/Users/indelman/Dropbox/WORK/Group/1-Active/VladimirOvechkin/results",
+		"/Users/indelman/Vadim/PROFESSIONAL/TEACHING/086759-Navigation/Lectures/0_Lecture_outline.txt",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/PAPERS/References/refs.bib",
+		"/Users/indelman/Vadim/PROFESSIONAL/TEACHING/085705-ControlLaboratory/Plan.txt",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba.h",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba/lbaAuxiliary.cpp",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba/CMakeLists.txt",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba/lbaTypes.h",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba_robotics/exes/LBAR_GlobVel_EquivIMU.cpp",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba/exes/LBA_example2.cpp",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba/exes/LBA_demo.cpp",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba/Timer.h",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba/Timer.cpp",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba_robotics/lbaRoboticsTypes.h",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba/lbaUtils.h",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba_robotics/lbaRoboticsUtils.cpp",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba_robotics/lbaRoboticsUtils.h",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba_robotics/exes/LBA_demo_dyn.cpp",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/matlab/SyntheticMultiViews/BA_Contaminate_data_ref.m",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba_robotics/ConstantVelocityFactorPoint3.h",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba/lbaUtils.cpp",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/gtsam/gtsam.h",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba/exes/LBA_playground.cpp",
+		"/Users/indelman/Vadim/PROFESSIONAL/TEACHING/Other/Machine Learning for Robotics and Computer Vision - TUM/README.txt",
+		"/Users/indelman/Vadim/PROFESSIONAL/WEBSITE/Technion/generate-pubs.sh",
+		"/Users/indelman/Vadim/PROFESSIONAL/WEBSITE/Technion/ResearchTopics.txt",
+		"/Users/indelman/Vadim/PROFESSIONAL/WEBSITE/Technion/VadimIndelman.bib",
+		"/Users/indelman/Vadim/PROFESSIONAL/WEBSITE/Technion/index.jemdoc",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba/MatchData.h",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba/MatchData.cpp",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba_robotics/tests/testConstantVelocityFactorPoint3.cpp",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba_robotics/ConstantVelocityFactorPoint3.cpp",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba_robotics/ConstantVelocityFactor.h",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba_robotics/ConstantVelocityFactor.cpp",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/CMakeLists.txt",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba_robotics/CMakeLists.txt",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba_dynamic/CMakeLists.txt",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba/exes/LBA_demo_dyn.cpp",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba_robotics/tests/testConstantVelocityFactor.cpp",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba/DeterminePastCameras.h",
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/CODE/LBA/cpp/lba/DeterminePastCameras.cpp",
+		"/Users/vindelman3/Vadim/ARASL/Preliminary/PythonStuff/Plotting/printhello.py",
+		"/Users/vindelman3/Vadim/ARASL/Preliminary/PythonStuff/Plotting/contour3d_demo3.py",
+		"/Users/vindelman3/Vadim/ARASL/Preliminary/PythonStuff/Plotting/fill_between_demo.py",
+		"/Users/vindelman3/Vadim/ARASL/LBA/cpp/lba/lbaUtils.cpp",
+		"/Users/vindelman3/Vadim/ARASL/LBA/cpp/lba/lbaUtils.h",
+		"/Users/vindelman3/Vadim/ARASL/LBA/cpp/lba/lbaTypes.h",
+		"/Users/vindelman3/Vadim/ARASL/LBA/cpp/lba/DeterminePastCameras.cpp",
+		"/Users/vindelman3/Vadim/ARASL/LBA/cpp/lba/exes/LBA_example2.cpp",
+		"/Users/vindelman3/Vadim/ARASL/LBA/cpp/lba/exes/exes_unstable/LBA_example3.off_cpp",
+		"/Users/vindelman3/Vadim/ARASL/LBA/cpp/lba/matching/sequential_matcher.cpp",
+		"/Users/vindelman3/Vadim/ARASL/LBA/cpp/lba_robotics/constraintCalc.cpp",
+		"/Users/vindelman3/Vadim/ARASL/LBA/cpp/lba_robotics/exes/LBAR_GlobVel_EquivIMU.cpp",
+		"/Users/vindelman3/Vadim/ARASL/LBA/cpp/lba/exes/LBA_demo.cpp",
+		"/Users/vindelman3/Vadim/ARASL/LBA/cpp/lba/exes/LBA_demo_dyn.cpp",
+		"/Users/vindelman3/Vadim/ARASL/LBA/cpp/lba/LbaAugmentedFactor.h",
+		"/Users/vindelman3/Vadim/ARASL/LBA/cpp/lba/lbaAuxiliary.cpp",
+		"/Users/vindelman3/Vadim/ARASL/LBA/cpp/lba/LinearizedFactor.h",
+		"/Users/vindelman3/Vadim/ARASL/LBA/cpp/lba/printGraphviz.h",
+		"/Users/vindelman3/Vadim/ARASL/LBA/cpp/lba/ThreeViewConstraintFactor_pixKey_SigmaPix.h",
+		"/Users/vindelman3/Vadim/ARASL/LBA/cpp/lba/TwoViewFactor_pixKey_SigmaPix.h",
+		"/Users/vindelman3/Vadim/ARASL/LBA/cpp/lba/DeterminePastCameras.h",
+		"/Users/vindelman3/Vadim/ARASL/LBA/cpp/lba_robotics/constraintCalc.h",
+		"/Users/vindelman3/Dropbox/WORK/NewResearch/0_COMMON_COMPUTATION/python/rename_files.py",
+		"/Users/vindelman3/Library/Application Support/Sublime Text 3/Packages/Pylinter/Pylinter.sublime-settings",
+		"/Users/vindelman3/Library/Application Support/Sublime Text 3/Packages/User/Pylinter.sublime-settings",
+		"/Users/vindelman3/Vadim/ARASL/Preliminary/PythonStuff/temp/try.py",
+		"/Users/vindelman3/Vadim/ARASL/Preliminary/PythonStuff/Plotting/integral_demo.py",
+		"/Users/vindelman3/Desktop/temp.matlab",
+		"/Users/vindelman3/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/vindelman3/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/vindelman3/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG",
+		"/Users/vindelman3/Desktop/animate_decay.py"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Khosoussi",
+			"bishop",
+			"techrep",
+			"octom",
+			"Omidshafiei16arxiv",
+			"kopitk",
+			"supplement",
+			"suppl",
+			"agha",
+			"firm",
+			"yan1",
+			"tech",
+			"ECAI",
+			"note",
+			"faessler",
+			"Kschischang",
+			"ross0",
+			"6icr}",
+			"6icr",
+			"brafman",
+			"techreport",
+			"TechReport",
+			"rss",
+			"firm",
+			"yan1",
+			"Yan1",
+			"CarlevarisBianco14",
+			"book{",
+			"book",
+			"AAMAS",
+			"charrow1",
+			"amato1",
+			"ChoudharyTCD14",
+			"lavalle",
+			"url",
+			"tr",
+			"technical",
+			"Kuemmerle",
+			"Howard06ijrr",
+			"Automation Magazine",
+			"RAM",
+			"durrant",
+			"durran",
+			"Grime9",
+			"nelson",
+			"dong",
+			"Wei14iros",
+			"Leutenegger15ijrr",
+			"tong1",
+			"Choudhary14iros",
+			"measured_",
+			"cbs",
+			"CBS",
+			"CovAnalysis",
+			"doReconstruction",
+			"triangulateDLT_MultiView",
+			"triangulat",
+			"covar",
+			"ordering",
+			"order",
+			"calcDetOfSqrtInfoMat",
+			"return",
+			"calcDetOfSqrtInfoMat",
+			"ordering",
+			"proj",
+			"initializeCamera",
+			"pixelErrorModel",
+			"proj",
+			"model_prior_DynLandmVel",
+			"dynamic_landmark_position",
+			"FLAG_dynamic_triang_initialization",
+			"model_prior_DynLandmPos",
+			"bundler_landmarks",
+			"dybamic_landmark_position",
+			"FLAG_triangulation_initialization",
+			"LoadCamerasObservationsFromFile",
+			"isstatic",
+			"bool",
+			"LoadLandmarks_Synthetic",
+			"LoadLandmarks_Synthetic\nLoadLandmarks_Synthetic\nLoadLandmarks_Synthetic\nLoadLandmarks_Synthetic\nLoadLandmarks_Synthetic\nLoadLandmarks_Synthetic\nLoadLandmarks_Synthetic\nLoadLandmarks_Synthetic\nLoadLandmarks_Synthetic\n\n\nLoadLandmarks_Synthetic",
+			"LoadLandmarks_Synthetic\nLoadLandmarks_Synthetic",
+			"bundler_landmarks",
+			"InputLandmarks",
+			"LoadLandmarks_Synthetic",
+			"Landmarks",
+			"LandmarkSightings",
+			"Landmarks.t",
+			"proj",
+			"WriteResults",
+			"DynLandmarkVelKey",
+			"DynLandmarkPosKey",
+			"incre",
+			"FLAG_write_factor_errors",
+			"FLAG_WriteLandmarks",
+			"WriteLandmarks_flag",
+			"WriteResults",
+			"trian",
+			"DynLandmarkVel_pred",
+			"FLAG_write_results_each_image",
+			"CamerasFromInputCameras",
+			"isstatic",
+			"MatchData",
+			"LoadCamerasAndLandmarkMatches_Synthetic",
+			"LoadCamerasObservationsFromFile",
+			"LoadCamerasObservationsForCurrentCamera",
+			"isstatic",
+			"LoadCamerasObservationsForCurrentCamera",
+			"LoadCamerasAndLandmarkMatches_Synthetic",
+			"static_scene_only",
+			"LoadCamerasObservationsForCurrentCamera",
+			"LoadCamerasAndLandmarkMatches_Synthetic",
+			"debug",
+			"roboti",
+			"lba_robotics_EXPORTED_TARGETS",
+			"lba_roboticsEXPORTED_TARGETS",
+			"lba_robotics",
+			"lba",
+			"lba_EXPORTED_TARGETS",
+			"vector",
+			"evaluatePoint3Error",
+			"predictionErrorPose",
+			"print",
+			"pose",
+			"evaluatePoseError",
+			"evaluateVelocityError",
+			"_pose",
+			"Hx1_expected_pose",
+			"Sigma(9"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mrgp",
+			"MRGP",
+			"dynamic_landmark_positions",
+			"dynamic_landmark_position",
+			"DynLandmarkVelKey_curr",
+			"DynLandmarkPosKey_curr",
+			"lba_dynamic_EXPORTED_TARGETS",
+			"lba_dynamicEXPORTED_TARGETS",
+			"lba_dynamic",
+			"predictionErrorPoint",
+			"evaluatePoint3Error",
+			"_point",
+			"Hx1_expected_point3",
+			"Sigma(6",
+			"ConstantVelocityFactorPoint3",
+			"Velocity",
+			"Key"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "VadimIndelman.bib",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39767,
+								39767
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/Bibtex.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 18637.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 94.0
+	},
+	"pinned_build_system": "",
+	"project": "ANPL-Website.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Vadim/PROFESSIONAL/WEBSITE/Technion/Technion-Website.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 732.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
