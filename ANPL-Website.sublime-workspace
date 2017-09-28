@@ -23,7 +23,16 @@
 			"file": "VadimIndelman.bib",
 			"settings":
 			{
-				"buffer_size": 40321,
+				"buffer_size": 42414,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/PAPERS/References/refs.bib",
+			"settings":
+			{
+				"buffer_size": 2000059,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -199,7 +208,7 @@
 	],
 	"find":
 	{
-		"height": 37.0
+		"height": 42.0
 	},
 	"find_in_files":
 	{
@@ -214,6 +223,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"seminar",
 			"Khosoussi",
 			"bishop",
 			"techrep",
@@ -340,8 +350,7 @@
 			"evaluatePoseError",
 			"evaluateVelocityError",
 			"_pose",
-			"Hx1_expected_pose",
-			"Sigma(9"
+			"Hx1_expected_pose"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -376,7 +385,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -385,15 +394,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 40321,
+						"buffer_size": 42414,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								39767,
-								39767
+								4214,
+								4221
 							]
 						],
 						"settings":
@@ -403,7 +412,35 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 18637.0,
+						"translation.y": 1713.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/PAPERS/References/refs.bib",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2000059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								851261,
+								851265
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/Bibtex.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
