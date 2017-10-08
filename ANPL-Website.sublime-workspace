@@ -23,16 +23,7 @@
 			"file": "VadimIndelman.bib",
 			"settings":
 			{
-				"buffer_size": 42414,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/PAPERS/References/refs.bib",
-			"settings":
-			{
-				"buffer_size": 2000059,
+				"buffer_size": 42595,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -208,7 +199,7 @@
 	],
 	"find":
 	{
-		"height": 42.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -385,7 +376,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -394,15 +385,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 42414,
+						"buffer_size": 42595,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4214,
-								4221
+								38587,
+								38587
 							]
 						],
 						"settings":
@@ -412,35 +403,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1713.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/PAPERS/References/refs.bib",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2000059,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								851261,
-								851265
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/Bibtex.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 546.0,
+						"translation.y": 18064.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
