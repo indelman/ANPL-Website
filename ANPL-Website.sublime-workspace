@@ -23,7 +23,7 @@
 			"file": "VadimIndelman.bib",
 			"settings":
 			{
-				"buffer_size": 42713,
+				"buffer_size": 43110,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -385,15 +385,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 42713,
+						"buffer_size": 43110,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								40544,
-								40559
+								42977,
+								42977
 							]
 						],
 						"settings":
@@ -403,7 +403,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 19194.0,
+						"translation.y": 19996.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
