@@ -23,7 +23,7 @@
 			"file": "VadimIndelman.bib",
 			"settings":
 			{
-				"buffer_size": 45941,
+				"buffer_size": 46196,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -122,6 +122,7 @@
 	],
 	"file_history":
 	[
+		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/PAPERS/ActiveRobust/TR/00-Abstract.tex",
 		"/Users/indelman/Vadim/PROFESSIONAL/RESEARCH/PAPERS/StudentTheses/DmitryKopitkovPhD/deep_information_recovery/Cpp/cnn/CNNFactor.h",
 		"/Users/indelman/Dropbox/WORK/Group/1-Active/VladimirOvechkin/results",
 		"/Users/indelman/Vadim/PROFESSIONAL/TEACHING/086759-Navigation/Lectures/0_Lecture_outline.txt",
@@ -214,6 +215,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"regev1",
 			"seminar",
 			"Khosoussi",
 			"bishop",
@@ -340,8 +342,7 @@
 			"pose",
 			"evaluatePoseError",
 			"evaluateVelocityError",
-			"_pose",
-			"Hx1_expected_pose"
+			"_pose"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -385,15 +386,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 45941,
+						"buffer_size": 46196,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								44097,
-								44097
+								39715,
+								39715
 							]
 						],
 						"settings":
@@ -403,7 +404,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 20986.0,
+						"translation.y": 18700.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
