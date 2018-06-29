@@ -12,3 +12,4 @@ JIP
 RAMDL
 AutonomousObjectLevelPerception
 TopologicalBSP
+InfoRecoveryCNN
