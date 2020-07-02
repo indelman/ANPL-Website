@@ -13,5 +13,5 @@ RAMDL
 AutonomousObjectLevelPerception
 TopologicalBSP
 InfoRecoveryCNN
-deepPDF
 QualitativeAutonomousPerception
+deepPDF
