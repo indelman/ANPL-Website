@@ -14,7 +14,7 @@ while IFS= read -r line; do
     #echo "START - $outputfile-Journals.html"
     
     # generate bib file that only contains bib-entries with the current research topic	
-	python ../python/filter_bib_by_entry_type.py $bibfilename $outputfile researchtopic $currentresearch
+	python2 ../python/filter_bib_by_entry_type.py $bibfilename $outputfile researchtopic $currentresearch
 	# generate journal and conference html pages, sort by date, just in case
 	#java -jar ../JabRef-2.10.jar -m entrytype="incollection","$outputfile-Chapters.html",PubList -n true "$outputfile.bib"	
 	#java -jar ../JabRef-2.10.jar -m entrytype="article","$outputfile-Journals.html",PubList -n true "$outputfile.bib"
