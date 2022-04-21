@@ -41,9 +41,9 @@ def extract_entries_and_write_to_file(Lines, searchfield, searchquery, fid, str_
 			   block_end   = search_forward(Lines, str_forward, i)											
 			   #print "block_start, block_end: ", block_start, ",", block_end 
 			   if not block_end:
-				  block_end = len(Lines)
-				  #print "reached eof??"
-				  # print Lines[block_start-1:block_end]
+				   block_end = len(Lines)
+				   #print "reached eof??"
+				   # print Lines[block_start-1:block_end]
 			   elif take_next_row:
 			      block_end = block_end + 1
 

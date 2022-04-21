@@ -36,7 +36,7 @@ def sort_entries_in_html_file(bibfilename, newbibfilename, fieldname, query_stri
 
 def main(argv):
 	if len(sys.argv) != 5:
-		print 'filter_html_by_entry_type.py <htmlname-without-extension> <newbibfilename> <fieldname> <query_string>'
+		print('filter_html_by_entry_type.py <htmlname-without-extension> <newbibfilename> <fieldname> <query_string>')
 		sys.exit(2)
 
 	bibfilename = sys.argv[1]
